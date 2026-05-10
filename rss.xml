@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>猫普的精神世界</title>
+    <description>一个独立开发者的精神自留地</description>
+    <link>http://yxc.page.gd/</link>
+    <atom:link href="http://yxc.page.gd/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 GMT</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+    <language>zh-cn</language>
+    <managingEditor>Re-Yxc</managingEditor>
+    <webMaster>Re-Yxc</webMaster>
+    <generator>Astro</generator>
+    <ttl>60</ttl>
+
+    <item>
+      <title>Python基础加接口自动化测试学习</title>
+      <link>http://yxc.page.gd/blog/python学习总结/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/python学习总结/</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>Python基础加接口自动化测试学习</description>
+      <enclosure url="http://yxc.page.gd/Re-Yxc/_astro/wallhaven-213yem.CGvDxeHN.png" type="image/jpeg" />
+      <category>学习记录</category>
+    </item>
+
+    <item>
+      <title>软件测试知识库上线</title>
+      <link>http://yxc.page.gd/blog/软件测试知识库上线/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/软件测试知识库上线/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>整理了软件测试面试题、自动化测试、性能测试等知识点，方便查阅学习。</description>
+      <enclosure url="http://yxc.page.gd/Re-Yxc/_astro/Software Testing.Bl-ynPGm.png" type="image/jpeg" />
+      <category>项目分享</category>
+    </item>
+
+    <item>
+      <title>新功能发布：天气组件与音乐播放改进</title>
+      <link>http://yxc.page.gd/blog/更新日志_2026-05-02/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/更新日志_2026-05-02/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>博客系统更新，新增天气组件，改进音乐组件交互。</description>
+      <enclosure url="http://yxc.page.gd/Re-Yxc/_astro/wallhaven-5yrgm5.LKHbisd_.png" type="image/jpeg" />
+      <category>更新日志</category>
+    </item>
+
+    <item>
+      <title>文章模板</title>
+      <link>http://yxc.page.gd/blog/文章模板/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/文章模板/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>本文是文章模板，用于展示 Markdown 格式的常用语法与组件。</description>
+      <enclosure url="http://yxc.page.gd/Re-Yxc/_astro/wallhaven-lywpjl.BT3tJ5KD.png" type="image/jpeg" />
+      <category>示例分类</category>
+    </item>
+
+    <item>
+      <title>示例文章</title>
+      <link>http://yxc.page.gd/blog/示例文章/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/示例文章/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>本文是默认示例，用于快速了解如何使用本系统发布内容。</description>
+      <enclosure url="http://yxc.page.gd/Re-Yxc/_astro/demo.BbhSiDBu.jpg" type="image/jpeg" />
+      <category>使用说明</category>
+    </item>
+
+    <item>
+      <title>博客</title>
+      <link>http://yxc.page.gd/blog/-index/</link>
+      <guid isPermaLink="true">http://yxc.page.gd/blog/-index/</guid>
+      <pubDate>Sun, 10 May 2026 10:45:56 GMT</pubDate>
+      <author>Re-Yxc</author>
+      <description>记录 Re-Yxc 写的文章</description>
+      
+      
+    </item>
+
+  </channel>
+</rss>

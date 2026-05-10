@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "id": "cat-tech", "name": "技术博客", "code": "tech", "sort_order": 1 },
+    { "id": "cat-life", "name": "生活记录", "code": "life", "sort_order": 2 }
+  ],
+  "links": [
+    {
+      "id": "1",
+      "name": "Re-Yxc",
+      "url": "http://yxc.page.gd",
+      "description": "一个独立开发者的精神自留地",
+      "avatar": "/favicon/avatar.webp",
+      "status": "active",
+      "category_code": "tech",
+      "sort_order": 1
+    }
+    
+  ]
+}
